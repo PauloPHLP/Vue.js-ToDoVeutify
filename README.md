@@ -6,7 +6,7 @@
 
 ## 🔎️ Description
 
-A basic ToDo list application made in order to test the Veutify.
+A basic ToDo list application made in order to test Veutify.
 
 ## 🚀️ Technologies
 
